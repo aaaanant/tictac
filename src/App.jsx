@@ -13,7 +13,7 @@ function App() {
     <div className='container'>
 
     <div className='heading'>
-      <h2>Tic Tac Toe</h2>
+      <h2>Tic Tac</h2>
 
     </div>
 
